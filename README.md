@@ -42,8 +42,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/> 
 </a>
     </p>
-    
-    <h3> Contact </h3>
+<h3> Contact </h3>
     eswara.rohan@students.iiit.ac.in
 
 </html>
