@@ -13,5 +13,16 @@
     
 </p>
 
+
+<h2> Technical Skills: </h2>
+ <ul style="list-style-type:circle">
+            <li> C </li>
+            <li> C++ </li>
+            <li> Python </li>
+            <li> HTML </li>
+            <li> CSS </li>
+            <li> JS </li>
+        </ul>
+
 </html>
 
