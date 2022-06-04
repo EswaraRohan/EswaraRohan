@@ -4,6 +4,8 @@
 <h2> Iam Rohan</h2>
 
 <p> 
-    <e>Iam an Undergraduate majoring in <b><u>IIIT HYDERABAD</u></b> </e>
+    <div style = "color:rgb(121, 8, 8)"> <e>Iam an Undergraduate majoring in <b><u>IIIT HYDERABAD</u></b> </e> <br>
+    </div>
+    
 </p>
 
