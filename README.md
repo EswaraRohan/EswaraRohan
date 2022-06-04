@@ -8,7 +8,7 @@
 <h2> Iam Rohan</h2>
 
 <p> 
-    <div style = "color:rgb(121, 8, 8)"> I am an undergraduate student at <b>IIIT-Hyderabad</b>, majoring in Electronics And Communication Emgineering <br>
+    <div style = "color:rgb(121, 8, 8)"> I am an undergraduate student at <b>IIIT-Hyderabad</b> majoring in Electronics And Communication Engineering <br>
     </div>
     
 </p>
