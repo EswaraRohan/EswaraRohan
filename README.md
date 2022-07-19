@@ -21,6 +21,8 @@
             <li> HTML </li>
             <li> CSS </li>
             <li> JS </li>
+            <li> jQuery <li>
+            <li> JSON <li>
         </ul>
   <p>
 <a href="https://www.programiz.com/c-programming" target="_blank">  
@@ -41,9 +43,12 @@
 <a href="https://www.javascript.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/> 
 </a>
+<a href="https://www.javascript.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/> 
+</a>
     </p>
 <h3> Contact </h3>
-    eswara.rohan@students.iiit.ac.in
+    <link src="eswara.rohan@students.iiit.ac.in">
 
 </html>
 
