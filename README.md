@@ -48,7 +48,7 @@
 </a>
     </p>
 <h3> Contact </h3>
-    <link src="eswara.rohan@students.iiit.ac.in">
+    <a href="eswara.rohan@students.iiit.ac.in">eswara.rohan@students.iiit.ac.in</a>
 
 </html>
 
