@@ -20,9 +20,10 @@
             <li> Python </li>
             <li> HTML </li>
             <li> CSS </li>
+            <li> Bootstrap </li>
             <li> JS </li>
-            <li> jQuery <li>
-            <li> JSON <li>
+            <li> jQuery </li>
+            <li> JSON </li>
         </ul>
   <p>
 <a href="https://www.programiz.com/c-programming" target="_blank">  
