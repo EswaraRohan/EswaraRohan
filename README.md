@@ -53,6 +53,7 @@
     
 <h3> Contact </h3>
     <a href="mailto:eswara.rohan@students.iiit.ac.in">eswara.rohan@students.iiit.ac.in</a>
+    Linkedin - <a href="https://www.linkedin.com/in/eswara-rohan-er2002/">Eswara Rohan</a>
 
 </html>
 
