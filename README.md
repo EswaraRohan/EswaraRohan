@@ -52,7 +52,7 @@
 </a>
     
 <h3> Contact </h3>
-    <a href="eswara.rohan@students.iiit.ac.in">eswara.rohan@students.iiit.ac.in</a>
+    <a href="mailto:eswara.rohan@students.iiit.ac.in">eswara.rohan@students.iiit.ac.in</a>
 
 </html>
 
