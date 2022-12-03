@@ -25,6 +25,9 @@
             <li> jQuery </li>
             <li> JSON </li>
             <li>Node JS </li>
+            <li>MATLAB </li>
+            <li>Verilog </li>
+            
         </ul>
   <p>
 <a href="https://www.programiz.com/c-programming" target="_blank">  
