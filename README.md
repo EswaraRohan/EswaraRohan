@@ -80,7 +80,7 @@ Input/output redirection can occur within command pipelines, as the examples bel
 
 The `tab` key can be pressed at any time of your prompt. When you press the tab key, it will print all files which have the same starting letters as the `ls` command and then again show the same prompt. If there is only one file/folder which has the same starting characters, the prompt should be filled with that. If it's a file, a space should be placed after the file. If it’s a folder, a `/` should be put after the folder name.
 
-## Specification 13: Signal Handling [15 marks]
+## Specification 13: Signal Handling
 
 1. **CTRL-Z** It should push any currently running foreground job into the background, and change its state from ‘running’ to ‘stopped.’ This should have no effect on the shell if there is no foreground process running.
 2. **CTRL-C** It should interrupt any currently running foreground job, by sending it the SIGINT signal. This should have no effect on the shell if there is no foreground process running.
