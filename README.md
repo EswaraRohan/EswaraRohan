@@ -1,1 +1,5 @@
-# Karthik-s-Shell
+# How to run
+
+- Open your teminal
+- Type `make`
+- Type `./run`

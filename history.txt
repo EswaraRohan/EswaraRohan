@@ -1,0 +1,20 @@
+sleep 2&
+fg 1
+sleep 5&
+sig 1 19
+jobs
+fg 1
+sleep 5&
+sig 1 19
+jobs
+fg 1
+ls
+ls ../..
+clear
+jobs
+echo "hi"
+pwd
+cd ..
+ls
+quit
+q
