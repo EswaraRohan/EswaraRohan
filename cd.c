@@ -1,5 +1,6 @@
 #include "headers.h"
 
+
 char HOME[1000];
 char PreviousWorkingDirectory[1000];
 
