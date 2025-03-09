@@ -3,7 +3,7 @@
 ## 🌟 About Me  
 - 💻 **Software Engineer** with **1+ years** of experience in designing and developing scalable web applications.  
 - 🚀 Passionate about **full-stack development** and **agile methodologies**.  
-- 🏗️ Strong **technical foundation** with a solid academic background.  
+- ⚡ Strong **technical foundation** with a solid academic background.  
 - 🌍 Always eager to **contribute to impactful projects** and **open-source**.  
 
 ---
@@ -81,12 +81,6 @@
     <a href="https://jquery.com/" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/70142?s=280&v=4" alt="jQuery" width="50" height="50"/>
     </a>
-    <a href="https://html.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-    </a>
     <a href="https://ionicframework.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="Ionic" width="50" height="50"/>
     </a>
@@ -95,9 +89,6 @@
     </a>
     <a href="https://getbootstrap.com/" target="_blank">
         <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="50" height="50"/>
-    </a>
-    <a href="https://www.programiz.com/cpp-programming" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
     </a>
 </p>
 
