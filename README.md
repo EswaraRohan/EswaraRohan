@@ -25,21 +25,21 @@
         <td><b>Frontend</b></td>
         <td>HTML</td>
         <td>CSS</td>
+        <td>React</td>
         <td>Bootstrap</td>
         <td>Material UI</td>
-        <td>jQuery</td>
         <td>Redux</td>
         <td>Angular</td>
     </tr>
     <tr>
         <td><b>Backend & DevOps</b></td>
-        <td>React</td>
         <td>Flask</td>
         <td>Spring Boot</td>
         <td>Node.js</td>
         <td>Express.js</td>
         <td>MongoDB</td>
-        <td>Docker</td>
+        <td>Docker</td>        
+        <td>jQuery</td>
     </tr>
 </table>
 <br>
